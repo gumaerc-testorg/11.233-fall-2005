@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignment section provides information about the asssignments to
+  be undertaken during the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,14 +13,14 @@ All students will write a draft and, later, a final version of a research propos
 
 Prior to that, students will write two short papers (up to five double-spaced pages each) of a "diary" or "journal" type, with the purpose of reflecting on the readings and class discussions as related to various interesting research questions. These papers are due in weeks 2B and 7.  Class participation is also a critical part of the class: detailed instructions for class participation for three sessions are presented to help students prepare.
 
-Class Participation Instruction 1 ([PDF]({{< baseurl >}}/resources/week1))
+Class Participation Instruction 1 ({{% resource_link 5f6f4ab9-b1ab-64b9-1f76-e1c2e5e05e2b "PDF" %}})
 
-Class Participation Instruction 2 ([PDF]({{< baseurl >}}/resources/week2))
+Class Participation Instruction 2 ({{% resource_link 7bd5ebfb-9252-586e-8d77-0011cc2a96cb "PDF" %}})
 
-Class Participation Instruction 3 ([PDF]({{< baseurl >}}/resources/week3))
+Class Participation Instruction 3 ({{% resource_link 42e252b8-0554-4547-4a8e-3dc46df7929b "PDF" %}})
 
-Short Paper Assignments ([PDF]({{< baseurl >}}/resources/shortpaper))
+Short Paper Assignments ({{% resource_link 264bd0ce-7b68-4a69-6f4c-7113c3fe526d "PDF" %}})
 
-Paper Review Assignment ([PDF]({{< baseurl >}}/resources/paperreview))
+Paper Review Assignment ({{% resource_link 96bade81-6365-f8f8-b0fd-0ec438eb6683 "PDF" %}})
 
-Final Paper Assignment ([PDF]({{< baseurl >}}/resources/finalpaper))
+Final Paper Assignment ({{% resource_link d4f60ee0-3f43-9e05-d21a-9209873cf845 "PDF" %}})
