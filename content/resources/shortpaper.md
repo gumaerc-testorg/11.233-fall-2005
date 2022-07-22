@@ -7,6 +7,7 @@ file: /courses/11-233-crafting-research-questions-and-qualitative-methodology-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: shortpaper.pdf
 uid: 264bd0ce-7b68-4a69-6f4c-7113c3fe526d
 ---
 The resource provides information about the diary / journal-type reflections that the students have to present on what they are reading and how these have to be organized.
-
