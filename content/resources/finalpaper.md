@@ -4,6 +4,7 @@ description: The resource provides information about the draft and final papers 
   be submitted by the students which would help them in coming up with their final
   topic.
 file: /courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/d4f60ee03f439e05d21a9209873cf845_finalpaper.pdf
+file_size: 64737
 file_type: application/pdf
 learning_resource_types:
 - Assignments
