@@ -4,6 +4,7 @@ description: The resource provides information about the diary / journal-type re
   that the students have to present on what they are reading and how these have to
   be organized.
 file: /courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/264bd0ce7b684a696f4c7113c3fe526d_shortpaper.pdf
+file_size: 75760
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/96bade816365f8f8b0fd0ec438eb6683_paperreview.pdf
+file_size: 12302
 file_type: application/pdf
 learning_resource_types:
 - Assignments
