@@ -4,6 +4,7 @@ description: The resource provides alphabetical listing of very useful optional 
   categorized as Evaluation and Research Methodology, Interviewing, Bureaucracies
   and Other Organizations, and Examples of Theses and Other Papers.
 file: /courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/65234c894599edbf8e85df6bae2afb6e_optionalreading.pdf
+file_size: 166268
 file_type: application/pdf
 learning_resource_types:
 - Readings
