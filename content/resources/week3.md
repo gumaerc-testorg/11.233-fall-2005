@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/42e252b8055445474a8e3dc46df7929b_week3.pdf
+file: /courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/42e252b8055445474a8e3dc46df7929b_week3.pdf
 file_size: 52361
 file_type: application/pdf
 learning_resource_types:
